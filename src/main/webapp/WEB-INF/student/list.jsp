@@ -9,7 +9,7 @@
 <h1>----------Student Manager---------</h1>
 <a href="/student?action=create">Create</a>
 <form method="post">
-    <input type="text" name="search">
+    <input type="text" name="search" placeholder="Search Student">
     <button type="submit">Search</button>
     <a href="/">Back menu</a>
 </form>
